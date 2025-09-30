@@ -8,7 +8,7 @@
 
 **Hasil Output**
 
-<img width="1440" height="900" alt="Jepretan Layar 2025-09-29 pukul 11 05 49" src="https://github.com/user-attachments/assets/Screenshot_2025-09-29_22_04_17.png" />
+<img width="1440" height="900" alt="Screenshot_2025-09-29_22_04_17.png" src="https://github.com/user-attachments/assets/Screenshot_2025-09-29_22_04_17.png" />
 
 
 
